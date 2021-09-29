@@ -67,11 +67,7 @@
 .bg {
   background-color: #11101D;
   color: whitesmoke;
-  position: relative;
-  left: 200px;
-  padding: 30px;
-  text-align: center;
-  border-radius: 3px;
+  
 }
 .sidebar{
   position: fixed;
